@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lang">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lang.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/lang.jar!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/lang.jar!/nutch-plugin/src" />
+    </SOURCES>
+  </library>
+</component>
